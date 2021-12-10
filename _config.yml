@@ -1,8 +1,8 @@
 site: Gesko
 title: Gesko
-greetings: Hi 👋
+greetings: VSS
 description: >-
-  just a minimalist, personal blog
+  VSS Blog Test
 lang: en-US
 timezone:  Europe/Rome
 repo: https://github.com/p0wex/Gesko # site repo [optional]
